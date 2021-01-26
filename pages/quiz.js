@@ -48,7 +48,7 @@ export default function Home() {
 
         </Footer>
       </QuizContainer>
-      <GitHubCorner projectUrl="https://alura-quiz-base-git-main.eliezer090.vercel.app" />
+      <GitHubCorner projectUrl="https://github.com/Eliezer090/AluraQuiz-base.git" />
     </QuizBackground>
 
   );
